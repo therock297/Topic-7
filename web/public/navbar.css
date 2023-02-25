@@ -1,0 +1,27 @@
+#navid{
+    width: 110%;
+    margin-left: -32px;
+    margin-bottom: 8px;
+}
+#navid a:hover
+{
+    color: black;
+}
+#expanded-nav{
+    justify-content: space-evenly;
+
+}
+.navbar-nav a{
+    margin :  0 300px; 
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar-nav a:hover{
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 10px;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+}

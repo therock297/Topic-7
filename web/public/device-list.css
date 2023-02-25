@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    text-align: center;
+    background-color: grey;
+    padding-top: 10px;
+  }
+  
+  h1:hover {
+    background-color: rgb(8, 241, 194);
+    font-size: 300%;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h2:hover {
+    font-size: 300%;
+  }
+  
+  footer {
+    margin-top: 21%;
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+  }
+  
+  #navbar h1 {
+    margin-top: 400px;
+  
+  }
